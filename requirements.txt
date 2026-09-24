@@ -1,0 +1,41 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+jupyter
+ipykernel
+
+# Classical Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Transformers / NLP
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+evaluate
+
+# NLP utilities
+nltk
+spacy
+
+# Experiment tracking / visualization
+tensorboard
+tqdm
+
+# Data & model utilities
+huggingface-hub
+safetensors
+
+# Optional: notebooks & interactive development
+ipywidgets
