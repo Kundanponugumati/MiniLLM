@@ -1,2 +1,7 @@
 .venv
 rough.py
+checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+data/

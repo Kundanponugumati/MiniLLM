@@ -37,5 +37,12 @@ tqdm
 huggingface-hub
 safetensors
 
+
 # Optional: notebooks & interactive development
 ipywidgets
+
+
+
+# downloading for this project
+datasets
+tokenizers
